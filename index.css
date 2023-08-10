@@ -1,0 +1,121 @@
+img {
+    width: 100%;
+    border-radius: 3px;
+}
+.main {
+    margin-top: -2rem;
+}
+.main-container {
+    justify-content: center;
+    align-content: center;
+    width: 100%;
+    border-radius: 5px;
+}
+ 
+.main ul {
+background-color:hsl(240, 3%, 93%);
+width: 50%;
+text-align: center;
+}
+/* .main img {
+    width:56%;
+} */
+h3{
+    color: hsl(223, 47%, 23%);
+    padding-top: 25px;
+    font-size: 25px;
+    font-family: 'Manrope', sans-serif;
+    text-align: center;
+}
+p {
+color: hsl(226, 12%, 60%);
+padding-right: 3rem;
+}
+.flex #flexa {
+color: hsl(223, 47%, 23%);
+}
+.flex #amount {
+    color: hsl(228, 12%, 60%);
+}
+.flex #change{
+    color:  hsl(245, 75%, 52%);
+    text-decoration: underline;
+}
+.flex img {
+    width: 25%;
+}
+.flex {
+    display: flex;
+}
+
+#images {
+    display: flex;  
+}
+.image{
+    width: 56%;
+}
+.proceed h5 {
+    color:hsl(222, 4%, 51%);
+    /* background-color: hsl(245, 75%, 52%); */
+    height: 30px;
+    text-align: center;
+    padding-left: 1px;
+    border-radius: 5px;
+    padding-right: 10px;
+    margin-top: 4px;    
+}
+.proceed #button {
+    color: ivory;
+    background-color: hsl(245, 75%, 52%);
+    width: 80%;
+    height: 30px;
+    border-radius: 5px;
+    font-family: 'Manrope', sans-serif;
+    margin-top: 1rem;
+}
+
+    
+#button:hover{
+    background-color: aqua
+}
+ 
+
+.annual-plan{
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+    
+    
+}
+.annual-plan img{
+    width:50px;
+    height: 50px;
+}
+.plan-test{
+    margin-right: 7rem;
+    font-size: 10px;
+}
+.plan-test p {
+    margin-top: -1rem;
+    font-size: 13px;
+}
+
+#ppp {
+    text-decoration: underline;
+    color: hsl(245, 75%, 52%);
+    padding-right:
+}
+ 
+
+
+
+
+
+
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;700&family=Red+Hat+Display:wght@500;700;900&display=swap');
+
